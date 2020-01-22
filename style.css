@@ -1,0 +1,54 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#score{
+    float: left;
+    color: purple;
+    margin: 0;
+}
+
+#time-log{
+    float: right;
+    margin: 0;
+}
+
+h1{
+    float: center;
+    color: blueviolet;
+    text-align: center;
+}
+
+.line{
+    margin: 30px 0;
+    color: darkgray;
+}
+
+#content{
+    position: relative;
+    text-align: center;
+    line-height: 20px;
+    color: gray;
+    width: 700px;
+    height: fit-content;
+    top:0;
+    left:20%;
+    margin-top: 0;
+    margin-left: 60px;
+    float: center;
+    padding: 20px;
+    padding-top: 15vh;
+}
+
+#submit{
+    background-color: purple;
+    color:white;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+}
+
+.instructions{
+    text-align: justify;
+}
